@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://yanlunziyou.github.io
+title: 鸣人堂
+email: milesli73@gmail.com
+author: yanlunziyou
+description: 自由的思想
+paginate: 5
+google_analytics: 
